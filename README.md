@@ -1,2 +1,4 @@
 # BlueTube
-YouTube Clone for learn Material UI
+YouTube Clone for learn Material UI, made it for mobile first!
+
+
